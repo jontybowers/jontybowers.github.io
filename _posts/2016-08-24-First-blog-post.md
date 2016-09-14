@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Blog"
+title: "My First Post"
 date: 2016-08-24
 ---
 
